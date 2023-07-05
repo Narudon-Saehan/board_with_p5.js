@@ -1,0 +1,9 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.img{
+    border-radius: 20px;
+    border-color: snow;
+    border-width: 5px;
+}
+
